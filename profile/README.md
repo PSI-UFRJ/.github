@@ -1,3 +1,3 @@
-![Heading](https://github.com/PSI-UFRJ/.github/blob/4d532cc621ea556e85b69c6de139205cf77aaa57/assets/body.png "Header")
+![Heading](https://github.com/PSI-UFRJ/.github/blob/dd8aa8012dc659652606f7e5307656e550dbf15f/assets/body2.png "Header")
 
 
