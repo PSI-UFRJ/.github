@@ -1,3 +1,3 @@
-[![Heading](../assets/body.png "Header")](https://psi-ufrj.github.io/)
+![Heading](../assets/body.png "Header")](https://psi-ufrj.github.io/)
 
 
