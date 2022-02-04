@@ -5,6 +5,7 @@
 </head>
 
 <body>
+    <img src="../assets/header.png">
     <h1 style="font-family: "Baloo 2", cursive"> oi </h1>
 </body>
 
