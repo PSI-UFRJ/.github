@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tainaslima)](https://github.com/PSI-UFRJ/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSI-UFRJ)](https://github.com/PSI-UFRJ/github-readme-stats)
 <!--
 
 **Here are some ideas to get you started:**
